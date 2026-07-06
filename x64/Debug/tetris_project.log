@@ -1,5 +1,0 @@
-﻿  tetris_project.cpp
-C:\Users\ccccp\source\repos\tetris_solution\tetris_project\tetris_project.cpp(117,50): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-  tetris_project.vcxproj -> C:\Users\ccccp\source\repos\tetris_solution\x64\Debug\tetris_project.exe
-  'pwsh.exe' is not recognized as an internal or external command,
-  operable program or batch file.
